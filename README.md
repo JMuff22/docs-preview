@@ -1,5 +1,7 @@
 # hacky docs previewwer
 
+Now with Jekyll instead of Mkdocs!
+
 ## Env vars
 
 * `WORKPATH` where git repository is cloned
